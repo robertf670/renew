@@ -1,0 +1,28 @@
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+.gradle/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystores and secrets
+*.jks
+*.keystore
+*.pem
+google-services.json
+keystore.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
